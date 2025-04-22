@@ -1,0 +1,24 @@
+AutohavenWreckers:Casse Autohaven
+TheMacMillanEstate:La propriété MacMillan
+ColdwindFarm:Coldwind Farm
+CrotusPrennAsylum:Asile de Crotus Prenn
+Haddonfield:Haddonfield
+BackwaterSwamp:Marais de Backwater
+LerysMemorialInstitute:Institut de la mémoire de Léry
+Springwood:Springwood
+GideonMeatPlant:Usine de conditionnement de viande Gideon
+Ormond:Ormond
+RedForest:Forêt rouge
+TheUndergroundComplex:Le complexe souterrain - Hawkins
+YamaokaEstate:Propriété Yamaoka
+GraveOfGlenvale:Tombe de Glenvale
+SilentHill:Silent Hill 
+RaccoonCity:Raccoon City
+ForsakenBoneyard:Cimetière abandonné
+GardenOfJoy:Jardin de la Joie
+TheShatteredSquare:La place dévastée
+ShelterWoods:Forêt profonde
+TobaLanding:Débarcadère de Toba
+NostromoWreckage:Épave du Nostromo
+GreenvilleSquare:Place de Greenville
+ForgottenRuins:Les Ruines oubliées

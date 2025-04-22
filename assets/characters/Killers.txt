@@ -1,0 +1,38 @@
+Trapper:Le Piégeur
+Wraith:Le Spectre
+HillBilly:Le Montagnard
+Nurse:L'Infirmière
+Hag:La Harpie
+Shape:La Silhouette
+Doctor:Le Docteur
+Huntress:La Chasseuse
+Cannibal:Le Cannibale
+Nightmare:Le Cauchemar
+Pig:Le Cochon
+Clown:Le Clown
+Spirit:L'Esprit
+Legion:La Légion
+Plague:L'Épidémie
+Ghostface:Ghost Face
+Demogorgon:Le Démogorgon
+Oni:L'Oni
+Gunslinger:Le Lance-mort
+Executioner:Le Bourreau
+Blight:Le Fléau
+Twins:Les Jumeaux
+Trickster:Le Farceur
+Nemesis:Le Nemesis
+Cenobite:Le Cénobite
+Artist:L'Artiste
+Onryo:L'Onryo
+Dredge:Le Dragage
+Mastermind:Le Mastermind
+Knight:Le Chevalier
+SkullMerchant:La Marchande de crânes
+Singularity:La Singularité
+Xenomorph:Le Xénomorphe
+GoodGuy:Le Brave Gars - Chucky
+Unknown:L'Inconnu
+Lich:La Liche
+Dracula:Le Seigneur des ténèbres
+Houndmaster:La Maîtresse des molosses

@@ -1,0 +1,45 @@
+Dwight:Dwight Fairfield
+Meg:Meg Thomas
+Claudette:Claudette Morel
+Jake:Jake Park
+Nea:Nea Karlsson
+Laurie:Laurie Strode
+Ace:Ace Visconti
+Bill:William "Bill" Overbeck
+Feng:Feng Min
+David:David King
+Kate:Kate Denson
+Quentin:Quentin Smith
+Tapp:Inspecteur Tapp
+Adam:Adam Francis
+Jeff:Jeff Johansen
+Jane:Jane Romero
+Ash:Ashley J. Williams
+Nancy:Nancy Wheeler
+Steve:Steve Harrington
+Yui:Yui Kimura
+Zarina:Zarina Kassir
+Cheryl:Cheryl Mason
+Felix:Felix Richter
+Elodie:Elodie Rakoto
+Yun:Yun-Jin Lee
+Jill:Jill Valentine
+Leon:Leon S. Kennedy
+Mikaela:Mikaela Reid
+Jonah:Jonah Vasquez
+Yoichi:Yoichi Asakawa
+Haddie:Haddie Kaur
+Ada:Ada Wong
+Rebecca:Rebecca Chambers
+Vittorio:Vittorio Toscano
+Thalita:Thalita Lyra
+Renato:Renato Lyra
+Gabriel:Gabriel Soma
+Nicolas:Nicolas Cage
+Ellen:Ellen Ripley
+Alan:Alan Wake
+Sable:Sable Ward
+Aestri:Aestri Yazar
+Lara:Lara Croft
+Trevor:Trevor Belmont
+Taurie:Taurie Cain
