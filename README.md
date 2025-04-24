@@ -3,6 +3,7 @@
 ![image](dbdrandomizer_image.jpg)
 
 ## (Warning !! The application is only in French but the code is in English so if you want to put a translation system in the application, that would be much appreciated)
+## (The images of the perks are missing because I don't want to download each image, since there are more than 276.)
 
 Like the name said, Dead by Daylight Randomizer is a Randomizer for the video game Dead by Daylight !
 
@@ -17,11 +18,12 @@ Pull requests are allowed !
 ![image](dbdrandomizer_image.jpg)
 
 ## (Attention !! L'application est uniquement en français mais le code est en anglais, donc si vous voulez mettre un système de traduction dans l'application, cela sera très apprécié.)
+## (Les images des compétences (perks) sont manquantes parce que je ne veux pas télécharger chaque image étant donné qu'il y en a plus de 276.)
 
 Comme le nom l'indique, Dead by Daylight Randomizer est un Randomizer pour le jeu vidéo Dead by Daylight !
 
 Je voulais faire une application pour me tester avec le langage de programmation C / Raylib et pour enfin réussir à finir un projet.
 
-Dans cette application, vous pouvez choisir d'obtenir un personnage (survivant ou tueur), une perk (survivant ou tueur) ou une carte du jeu !
+Dans cette application, vous pouvez choisir d'obtenir un personnage (survivant ou tueur), une compétence (perk en anglais) (survivant ou tueur) ou une carte du jeu !
 
 Les Pull requests sont autorisées !
