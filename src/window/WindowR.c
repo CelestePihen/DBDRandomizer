@@ -8,9 +8,9 @@ void RunApplication()
     LoadFileManager();
 
     enum Mode mode = CHARACTERS;
-	enum Role role = SURVIVOR;
+    enum Role role = SURVIVOR;
 
-	InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE);
+    InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE);
     SetRandomSeed(time(NULL));
 
     // App starts with a random survivor then the user can change to killer or can change the mode
@@ -31,8 +31,8 @@ void RunApplication()
 /* Loads the Texts and Images related to the game */
 void LoadFileManager()
 {
-	LoadCharacters();
-	LoadPerks();
+    LoadCharacters();
+    LoadPerks();
     LoadMaps();
 }
 
