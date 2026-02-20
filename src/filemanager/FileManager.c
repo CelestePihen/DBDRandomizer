@@ -337,8 +337,26 @@ char* GetMapName(const char* mapId)
     while (strcmp(mapId, maps.mapsId[i]) != 0)
         i++;
 
-    if (i == MAX_SURVIVORS)
+    if (i == MAX_MAPS)
         return "Error";
 
     return maps.mapsName[i];
+}
+
+/*
+* Get the map's name with his id
+* @param mapId The id of the map
+* @return Return a string with the map's name
+*/
+char* GetMapName(const char* mapId)
+{
+    for (int i = 0; i < MAX_MAPS; i++)
+    {
+        if (strcmp(mapId, maps.mapsId[i]) != 0) 
+        {
+            return maps.mapsName[i];
+        }
+    }
+
+    return "Error";
 }
